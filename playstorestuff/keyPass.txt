@@ -1,5 +1,0 @@
-KEY STORE PATH: /home/x/AndroidStudioProjects/ufogamekey.jks
-PASSWORD: ImadeAufoGame123.com
-KEY
-ALIAS: ufoGame
-PASSWORD: com.ImadeAufoGame123
